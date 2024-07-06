@@ -1,6 +1,9 @@
 
 # Set up
-Create a virtual environment and install the required packages with `pip install -r requirements.txt`
+- Create a virtual environment and install the required packages with `pip install -r requirements.txt`
+- Only in case of training neural networks, no need for the flask app:
+    - Store all image files of the dataset inside `imgs` folder
+    - Store the label csv file of the dataset inside `labels` folder
 
 # Train neural networks
 Run the following bash script from root directory. This execution will train and evaluate four different models on the dataset.
