@@ -1,5 +1,5 @@
 
-# Train neural networks
+# Train Neural Networks
 ## Setup
 - Create a virtual environment and install the required packages with `pip install -r requirements.txt`
 - Store all image files of the dataset inside `imgs` folder
