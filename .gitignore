@@ -1,0 +1,12 @@
+nam_ai/*
+runs/*
+!runs/.gitkeep
+automate.py
+__pycache__
+imgs/*
+!imgs/.gitkeep
+labels/*
+!labels/.gitkeep
+weights/*
+!weights/.gitkeep
+!weights/best_resnet18.pth

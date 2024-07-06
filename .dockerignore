@@ -1,0 +1,13 @@
+runs
+test
+imgs
+labels
+__pycache__
+logs
+nam_ai
+.gitignore
+automate.py
+data.py
+execute.sh
+main.py
+README.md
